@@ -1,22 +1,22 @@
 # GitFav 👨‍💻
 
-## 💻 Sobre o desafio
+## 💻 About the challenge
 
-Desafio do curso Explorer da Rocketseat. Nesse desafio foi criada uma aplicação que permite favoritar usuários do GitHub, a serem exibidos em uma tabela. É possível também removê-los.
+Rocketseat Explorer course challenge. On this challenge it was created an application which allows you to favorite GitHub users, to be shown in a table. It's also possible to remove them.
 
 <aside>
-💡 O que é abordado nesse desafio:
+💡 Covered topics:
 
-- Conceitos de API;
-- Orientação a objetos;
-- Classes e construtores;
+- API concepts;
+- Object orientation;
+- Classes and constructors;
 - localStorage;
 - async/await;
-- try, catch e throw;
-- E mais.
+- try, catch and throw;
+- And more.
 
 </aside>
 
-## Deploy da Aplicação :dash:
+## Application Deploy :dash:
 
-> Link do deploy da aplicação, realizado pelo GitHub Pages: https://rafael-alms.github.io/GitFav/
+> Application Deploy Link, performed on GitHub Pages: https://rafael-alms.github.io/GitFav/
