@@ -19,4 +19,4 @@ Rocketseat Explorer course challenge. On this challenge it was created an applic
 
 ## Application Deploy :dash:
 
-> Application Deploy Link, performed on GitHub Pages: https://rafael-alms.github.io/GitFav/
+> Application deploy link, performed on GitHub Pages: https://rafael-alms.github.io/GitFav/
